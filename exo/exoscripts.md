@@ -1,4 +1,4 @@
-**Powershell Scripts (Exchange):**
+**Powershell Scripts for Exchange Online**
 
 1.  **Get All mailbox details:**
 
