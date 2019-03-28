@@ -3,8 +3,8 @@
 # M365 Rangers
 * Santhosh Kumar
 * Prashantha Damle 
-* Keerthi Nagendra
 * Siva Ganesh Ande
 * Gaurav Dharasania (Learner)
+* Keerthi Nagendra (Viewer)
 
 **Please Note** *The above names are not in particular order of age / experience* 
