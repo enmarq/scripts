@@ -1,4 +1,5 @@
 ## This script lists all the delgations. Please execute this script as ps1 
+# Script created by Santhosh Kumar - For any queries please contact santhosh.kumar@enmarq.com - Happy Scripting! ## 
 
 $OutFile = “C:\temp\ALL_Access_Permissions.txt”
 “DisplayName” + “^” + “Email Address” + “^” + “Full Access” + “^” + “Send As” + “^” + “Send On Behalf Of” | Out-File $OutFile -Force

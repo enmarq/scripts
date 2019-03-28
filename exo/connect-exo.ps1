@@ -1,3 +1,4 @@
+# Script created by Santhosh Kumar - For any queries please contact santhosh.kumar@enmarq.com - Happy Scripting! ## 
 ## O365 Connection Script: (Open PowerShell in Admin mode and run this script)
 
 ######## Connect to Office 365 ########

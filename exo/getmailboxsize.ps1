@@ -1,4 +1,5 @@
 #script to get the mailbox sizes
+# Script created by Santhosh Kumar - For any queries please contact santhosh.kumar@enmarq.com - Happy Scripting! ## 
 
 $DataPath = "C:\<Path>\mailboxsize.csv"
 $Results = @()
