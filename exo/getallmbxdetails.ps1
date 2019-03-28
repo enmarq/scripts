@@ -1,0 +1,1 @@
+Get-Mailbox -ResultSize unlimited | Select Name,DisplayName,Alias,UserPrincipalName,WindowsEmailAddress,PrimarySmtpAddress,RecipientTypeDetails,RecipientType,Office,SKUAssigned,PSComputerName,ServerName,Database, ForwardingSmtpAddress | Export-Csv C:\temp\onpremusers.csv
