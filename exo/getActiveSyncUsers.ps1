@@ -1,0 +1,1 @@
+Get-CASMailbox -resultsize unlimited | Select Name,DisplayName,ActiveSyncEnabled,PrimarySmtpAddress | Export-Csv "C:\temp \ActiveSync.csv"

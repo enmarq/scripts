@@ -1,0 +1,1 @@
+Get-Mailbox -ResultSize Unlimited | ForEach {Get-MobileDeviceStatistics -Mailbox:$_.Identity} | Select-Object @{label="User" ; expression={$_.Identity}},FirstSyncTime,LastSuccessSync,DeviceType,DeviceModel,DeviceOS,DeviceUserAgent,Status,DeviceAccessState,DeviceImei | Export-csv c:\temp\DeviceDetails.csv
